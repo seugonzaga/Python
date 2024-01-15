@@ -1,3 +1,4 @@
 def SEUGONZAGA ():
-  PRINT("AINDA")
-
+  print("AINDA")
+  
+SEUGONZAGA()
